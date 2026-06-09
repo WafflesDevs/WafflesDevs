@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, My name is Ali
+#### I am a python developer who codes with AI
+![I am a python developer who codes with AI](https://i.postimg.cc/jjj4fhL2/github-header-banner.png)
 
-<!--
-**WafflesDevs/WafflesDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm WafflesDevs 🧇. A rising Python developer exploring AI, building projects, and turning ideas into code one commit at a time.
 
-Here are some ideas to get you started:
+Skills: Python / Beginner Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Artifical Intelligence with python 
+- 🤔 I’m looking for help with Artifical Intelligence In Depth 
+- 😄 Pronouns: He/him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WafflesDevs)  
+
