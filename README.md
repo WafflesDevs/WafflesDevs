@@ -1,8 +1,7 @@
-### Hi there 👋, My name is Ali
+### Hi there 👋, My name is WafflesDevs
 #### I am a python developer who codes with AI
 ![I am a python developer who codes with AI](https://i.postimg.cc/jjj4fhL2/github-header-banner.png)
-
-Hey, I'm WafflesDevs 🧇. A rising Python developer exploring AI, building projects, and turning ideas into code one commit at a time.
+A rising Python developer exploring AI, building projects, and turning ideas into code one commit at a time.
 
 Skills: Python / Beginner Java
 
