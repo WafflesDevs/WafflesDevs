@@ -7,8 +7,8 @@ Skills: Python / Beginner Java
 
 - 🌱 I’m currently learning Artifical Intelligence with python 
 - 🤔 I’m looking for help with Artifical Intelligence In Depth 
-- 😄 Pronouns: He/him 
-
+- 😄 Pronouns: He/him
+- Currently working on a Astar Algo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WafflesDevs)  
 
