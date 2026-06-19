@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is WafflesDevs
 #### I am a python developer who codes with AI
 ![I am a python developer who codes with AI](https://i.postimg.cc/jjj4fhL2/github-header-banner.png)
-A rising Python developer exploring AI, building projects, and turning ideas into code one commit at a time.
+A  Python developer exploring AI and Backend, building projects, and turning ideas into code one commit at a time.
 
 Skills: Python / Beginner Java
 
-- 🌱 I’m currently learning Artifical Intelligence with python 
-- 🤔 I’m looking for help with Artifical Intelligence In Depth 
+- 🌱 I’m currently learning Python but in different angles!
+- 🤔 I’m looking for help with Artifical Intelligence In Depth alongside guidance on backend 
 - 😄 Pronouns: He/him
-- Currently working on a Astar Algo
+- Currently working on Polishing my skillset
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WafflesDevs)  
 
