@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is WafflesDevs
-#### I am a python developer who codes with AI
+#### I am a python developer who codes AI and Back End APIS
 ![I am a python developer who codes with AI](https://i.postimg.cc/jjj4fhL2/github-header-banner.png)
 A  Python developer exploring AI and Backend, building projects, and turning ideas into code one commit at a time.
 
