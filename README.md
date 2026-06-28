@@ -1,12 +1,13 @@
 ### Hi there 👋, My name is WafflesDevs
-#### I am a python developer who codes AI and Back End APIS
+#### I am a  developer who codes some languages!
+A  Scripter exploring AI and Backend, building projects, and turning ideas into code one commit at a time.
 ![I am a python developer who codes with AI](https://i.postimg.cc/jjj4fhL2/github-header-banner.png)
-A  Python developer exploring AI and Backend, building projects, and turning ideas into code one commit at a time.
+### 🛠️ My Toolkit
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Skills: Python / Beginner Java
-
-- 🌱 I’m currently learning Python but in different angles!
-- 🤔 I’m looking for help with Artifical Intelligence In Depth alongside guidance on backend 
 - 😄 Pronouns: He/him
 - Currently working on Polishing my skillset
 
