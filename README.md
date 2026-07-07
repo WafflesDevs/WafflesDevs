@@ -14,5 +14,4 @@ A  Scripter exploring AI and Backend, building projects, and turning ideas into 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WafflesDevs)  
 
-# Feel free to check out my UserCard!
-https://superb-kitsune-33d120.netlify.app/
+
