@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00E6&center=true&vCenter=true&width=600&lines=Developing+Full+Stack+App;Zero+mortal+plan;Divine+Justice;Creating+justice+Backend.....;Creating+a+divine+frontend...." alt="Typing SVG" />
+  
 </p>
 
 <div align="center">
@@ -16,7 +17,11 @@
 <img src="https://media1.tenor.com/m/WQgWDnEUAwIAAAAC/goku-black-vs-goku.gif" alt="Goku Black vs Goku" width="700"/>
 
 </div>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=900&color=FF00E6&background=00000000&center=true&vCenter=true&width=650&lines=Super+Saiyan+Rose;Goku+Black+Style;Divine+%E2%80%A2+Ruthless+%E2%80%A2+Unbound)](https://git.io/typing-svg)
+
+</div>
 ## 🖤 About Me
 
 > *"Rage will not help you, mortal. Only power decides the outcome."*
