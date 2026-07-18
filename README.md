@@ -32,7 +32,7 @@
 - 😄 Pronouns: He/him
 - 🔥 Currently working on: **Polishing my skillset**
 - 💗 Fun fact: I believe in code that transcends mortals — clean, divine, and merciless on bugs
-
+- My most recent project: https://meridian-frontend-df2r.onrender.com/
 <br>
 
 ## ⚡ My Toolkit
